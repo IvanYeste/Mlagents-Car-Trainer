@@ -21,7 +21,8 @@ Este proyecto es un simulador desarrollado en **Unity + ML-Agents** cuyo objetiv
 
 ¡Aquí puedes ver el comportamiento del coche tras el entrenamiento!
 
-![Coche funcionando](./CocheFinalGIF.gif)
+<img src="./CocheFinalGIF.gif" width="600">
+
 
 
 ## 🚦 Entrenamiento
