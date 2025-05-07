@@ -16,15 +16,7 @@ Este proyecto es un simulador desarrollado en **Unity + ML-Agents** cuyo objetiv
 - **ML-Agents Toolkit**
 - **TensorFlow (opcional, dependiendo del backend de ML-Agents)**
 - **Python (para lanzar entrenamientos)**
-
-## 🎬 Demostración
-
-¡Aquí puedes ver el comportamiento del coche tras el entrenamiento!
-
-<img src="./CocheFinalGIF.gif" width="600">
-
-
-
+- 
 ## 🚦 Entrenamiento
 
 Los modelos se entrenaron utilizando la herramienta `mlagents-learn` con configuración personalizada de hiperparámetros para lograr un buen equilibrio entre exploración y explotación.
@@ -33,6 +25,7 @@ Ejemplo de comando:
 
 ```bash
 mlagents-learn config/trainer_config.yaml --run-id=CircuitTrainer --train
+```
 
 ## 📈 Resultados
 
