@@ -1,0 +1,30 @@
+[Libraries and temp files]
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+
+[Visual Studio]
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+[OS Files]
+.DS_Store
+Thumbs.db
+
+[Unity Asset Store Tools]
+AssetStoreTools*
+
+[Others]
+*.pidb
+*.booproj
+*.svd
